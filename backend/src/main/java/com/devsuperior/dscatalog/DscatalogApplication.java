@@ -1,4 +1,4 @@
-package com.devsuperior.demodscatalog;
+package com.devsuperior.dscatalog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
