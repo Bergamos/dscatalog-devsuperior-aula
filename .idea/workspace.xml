@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="02f1d400-135c-4d9f-bc95-d3b51f948e53" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/devsuperior/dscatalog/entities/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/devsuperior/dscatalog/entities/Category.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/devsuperior/dscatalog/resources/CategoryResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/devsuperior/dscatalog/resources/CategoryResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/devsuperior/dscatalog/resources/exceptions/ResourceExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/devsuperior/dscatalog/resources/exceptions/ResourceExceptionHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/devsuperior/dscatalog/services/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/devsuperior/dscatalog/services/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/devsuperior/dscatalog/services/exceptions/EntityNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/devsuperior/dscatalog/services/exceptions/ResourceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/import.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +71,9 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\ws-bootcamp\dscatalog\backend\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.devsuperior.dscatalog.services.exceptions" />
     </key>
   </component>
   <component name="RunManager" selected="Application.DscatalogApplication">
