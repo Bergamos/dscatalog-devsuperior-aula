@@ -37,7 +37,7 @@ public class CategoryService {
         return new CategoryDTO(entity);
     }
 
-    @Transactional(readOnly = true)
+    @Transactional
     public CategoryDTO insert(CategoryDTO dto) {
         Category entity = new Category();
         entity.setName(dto.getName());
@@ -45,7 +45,7 @@ public class CategoryService {
         return new CategoryDTO(entity);
     }
 
-    @Transactional(readOnly = true)
+    @Transactional
     public CategoryDTO update(Long id, CategoryDTO dto) {
         try {
             Category entity = repository.getReferenceById(id);
